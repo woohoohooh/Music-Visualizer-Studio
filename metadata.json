@@ -1,0 +1,6 @@
+{
+  "name": "Music Visualizer Studio",
+  "description": "A powerful 15-variant dynamic audio visualizer for creating stunning YouTube music video backgrounds with custom tracks and customizable audio reaction parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
